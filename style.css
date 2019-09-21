@@ -7,8 +7,8 @@ html,body{
 height: 100%;
 background-image:linear-gradient(to left, rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)),url('images/real.jpg');
 background-size: cover;
-background-attachment: fixed;
 background-repeat: no-repeat;
+background-position: center;
 }
 .description{
 	color: white;
