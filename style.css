@@ -1,0 +1,24 @@
+html,body{
+	/*overflow: hidden;*/
+	height: 100%;
+}
+
+#content{
+height: 100%;
+background-image:linear-gradient(to left, rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)),url('images/real.jpg');
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+.description{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	padding:30px;
+	padding-right: 15%; 
+	font-family: 'Ubuntu Condensed', sans-serif;
+}
+h2{
+	font-family: 'Anton', sans-serif;
+
+}
