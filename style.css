@@ -3,8 +3,8 @@ html,body{
 }
 
 #content{
-height: 100%;
 background-image:linear-gradient(to left, rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)),url('images/real.jpg');
+height: 100%;
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
