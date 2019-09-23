@@ -9,6 +9,7 @@ background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
 display: block;
+overflow: hidden;
 }
 .description{
 	color: white;
@@ -23,13 +24,13 @@ h2{
 
 }
 footer{
-	background-color: #444246;
-	color: white;
+	background-color: white;
+	color: black;
 }
 
 footer a{
 	text-decoration: none;
-	color: white;
+	color: black;
 }
 footer a:hover{
 	text-decoration: none;
